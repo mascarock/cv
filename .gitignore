@@ -1,0 +1,12 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local overrides (keep templates in src/)
+src/cover-letters/*-local.html
